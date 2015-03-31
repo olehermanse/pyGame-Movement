@@ -1,10 +1,10 @@
-File: README.md<br>
-Project name: pyGameMovement<br>
-Date: 2015-03-29<br>
-Author: olehermanse ( http://www.github.com/olehermanse )<br>
-License: The MIT License<br>
+**File:** README.md<br>
+**Project name:** pyGameMovement<br>
+**Date:** 2015-03-29<br>
+**Author:** olehermanse ( http://www.github.com/olehermanse )<br>
+**License:** The MIT License<br>
 
-The MIT License (MIT)
+**The MIT License (MIT)**
 
 Copyright (c) 2015 olehermanse
 
